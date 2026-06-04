@@ -1,2 +1,5 @@
-# javxxx
-javxxx成人番号库
+# JavXXX
+
+[javxx](https://javxx.top) official app
+
+## Downloads
